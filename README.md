@@ -16,7 +16,7 @@ Iremos responder questões sobre algoritmos ambiciosos no Leet code, cada membro
 |Questão | Resolução |
 | -- | -- |
 | 502  |  [Resolução](./Respostas/502.py) |
-|   |  [Resolução]()|
+| 112  |  [Resolução](./Respostas/122.py)|
 
 # Respostas Mateus
 
