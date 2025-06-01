@@ -23,7 +23,7 @@ Iremos responder questões sobre algoritmos ambiciosos no Leet code, cada membro
 |Questão | Resolução |
 | -- | -- |
 | 630 |  [Resolução](./Respostas/630.py)|
-|  |  [Resolução]()|
+| 624 |  [Resolução](./Resposta/624.py)|
 
 ## Instalação 
 **Linguagem**: Python<br>
