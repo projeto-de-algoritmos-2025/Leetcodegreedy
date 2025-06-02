@@ -15,15 +15,15 @@ Iremos responder questões sobre algoritmos ambiciosos no Leet code, cada membro
 # Respostas Pedro
 |Questão | Resolução |
 | -- | -- |
-| 502  |  [Resolução](./Respostas/502.py) |
-| 112  |  [Resolução](./Respostas/122.py)|
+| (502)[https://leetcode.com/problems/ipo/description/?envType=problem-list-v2&envId=greedy]  |  [Resolução](./Respostas/502.py) |
+| (122)[https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=problem-list-v2&envId=greedy] |  [Resolução](./Respostas/122.py)|
 
 # Respostas Mateus
 
 |Questão | Resolução |
 | -- | -- |
-| 630 |  [Resolução](./Respostas/630.py)|
-| 624 |  [Resolução](./Resposta/624.py)|
+| (630)[https://leetcode.com/problems/course-schedule-iii/description/?envType=problem-list-v2&envId=greedy] |  [Resolução](./Respostas/630.py)|
+| (624)[https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=problem-list-v2&envId=greedy] |  [Resolução](./Respostas/624.py)|
 
 ## Instalação 
 **Linguagem**: Python<br>
