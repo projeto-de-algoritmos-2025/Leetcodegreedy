@@ -29,7 +29,7 @@ Iremos responder questões sobre algoritmos ambiciosos no Leet code, cada membro
 **Linguagem**: Python<br>
 
 ## Apresentação
-[Apresentação em vídeo ]()
+[Apresentação em vídeo ](https://youtu.be/tRL339PiUzs)
 
 
 
